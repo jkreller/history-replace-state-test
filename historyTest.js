@@ -1,1 +1,1 @@
-history.replaceState({}, '', '/new-url');
+history.replaceState({}, '', '/index.html');
